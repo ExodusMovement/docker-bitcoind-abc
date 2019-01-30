@@ -1,1 +1,1 @@
-https://github.com/Bitcoin-ABC/bitcoin-abc/releases/tag/v0.18.2
+https://github.com/Bitcoin-ABC/bitcoin-abc/releases/tag/v0.18.7
