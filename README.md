@@ -6,5 +6,7 @@ Every new bitcoin-abc release have own branch where branch name is bitcoin-abc v
 
 Branches and releases:
 
+  - [0.18.7](https://github.com/ExodusMovement/docker-bitcoind-abc/tree/0.18.7)
+    - [0.18.7-001](https://github.com/ExodusMovement/docker-bitcoind-abc/tree/0.18.7-001)
   - [0.18.2](https://github.com/ExodusMovement/docker-bitcoind-abc/tree/0.18.2)
     - [0.18.2-001](https://github.com/ExodusMovement/docker-bitcoind-abc/tree/0.18.2-001)
